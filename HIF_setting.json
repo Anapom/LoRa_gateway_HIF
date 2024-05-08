@@ -6,7 +6,7 @@
         "1": "DEMO_1",
         "2": "DEMO_2",
         "3": "DEMO_3",
-        "4": "DEMO_4",
+        "4": "DEMO_4"
       },
       "Topic_header" : "/MEA/RDD/",
       "Gateway"      : "LORA_GATEWAY/PP427_1/"
@@ -29,7 +29,7 @@
         "13": "X"
       },
       "Topic_header" : "/MEA/RDD/",
-      "Gateway"      : "LORA_GATEWAY/PP427_1/"
+      "Gateway"      : "LORA_GATEWAY/PP427_2/"
     }
   }
 }
