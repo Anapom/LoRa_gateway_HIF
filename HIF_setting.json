@@ -15,8 +15,8 @@
         "10": "J",
         "11": "K"
       },
-      "Topic_header" : "/RDD/Broken_conductor/PP427/",
-      "Gateway"      : "Gateway_1/"
+      "Topic_header" : "/MEA/RDD/",
+      "Gateway"      : "/LORA_GATEWAY/PP427_1/"
     },
     "PP427/Gateway_2": {
       "Transformer_dict" :
