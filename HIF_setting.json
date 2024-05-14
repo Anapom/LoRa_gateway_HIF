@@ -1,6 +1,6 @@
 {
   "id_Gateway": {
-    "PP427/Gateway_1": {
+    "LORA_GATEWAY/PP427_1/": {
       "Transformer_dict" :
       {
         "1": "RDD_LAB1",
