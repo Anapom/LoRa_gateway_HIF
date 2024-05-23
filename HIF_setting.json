@@ -8,7 +8,7 @@
         "3": "RDD_LAB3",
         "4": "RDD_LAB4"
       },
-      "Topic_header" : "/MEA/RDD/",
+      "Topic_header" : "/MEA/RDD/"
     },
     "LORA_GATEWAY/PP427_2/": {
       "Transformer_dict" :
@@ -27,14 +27,14 @@
         "12": "W",
         "13": "X"
       },
-      "Topic_header" : "/MEA/RDD/",
+      "Topic_header" : "/MEA/RDD/"
     }, 
-    {
+    
     "LORA_GATEWAY/OLTC_GATEWAY/": {
       "Transformer_dict" :
       {
       },
-      "Topic_header" : "/MEA/RDD/",
+      "Topic_header" : "/MEA/RDD/"
     }
   }
 }
